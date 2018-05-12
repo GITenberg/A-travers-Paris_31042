@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34972
     wikipedia: http://fr.wikipedia.org/wiki/Crafty_%28illustrateur%29
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31042#A-travers-Paris
 gutenberg_bookshelf:
 - FR Villes
 - FR Illustrateurs
